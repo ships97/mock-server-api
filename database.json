@@ -1,29 +1,52 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "abcd",
-      "author": "masai"
-    },
-    {
-        "id": 3,
-        "title": "third",
-        "author": "masai"
-      }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": false
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2020",
+		"publisher": "Bloomsbury 1",
+		"cost": 1199,
+		"borrowed": false
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2017",
+		"publisher": "Bloomsbury 2",
+		"cost": 1499,
+		"borrowed": false
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2019",
+		"publisher": "Bloomsbury 3",
+		"cost": 1299,
+		"borrowed": false
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2022",
+		"publisher": "Bloomsbury 4",
+		"cost": 999,
+		"borrowed": false
   }
-}
+]
