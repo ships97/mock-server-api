@@ -1,17 +1,10 @@
-{
-    "avatar":
-    [
-      {
-        "image_url": "https://i.pravatar.cc/200"
-      },
-      {
-        "image_url": "https://i.pravatar.cc/201"
-      },
-      {
-        "image_url": "https://i.pravatar.cc/202"
-      },
-      {
-        "image_url": "https://i.pravatar.cc/203"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "userName": "jenny",
+    "avtarUrl": "https://i.pravatar.cc/150?img=3",
+    "fullName": "Jennelia",
+    "email": "abc@gmail.com",
+    "password": 123
   }
+]
