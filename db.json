@@ -3,11 +3,11 @@
   [
     {
       "id": 1,
-      "userName": "jenny",
-      "avtarUrl": "https://i.pravatar.cc/150?img=3",
-      "fullName": "Jennelia",
-      "email": "abc@gmail.com",
-      "password": 123
+      "name": "jenny",
+      "age": 23,
+      "gender": "female",
+      "country": "india",
+      "profession": "student"
     }
   ]
 }
