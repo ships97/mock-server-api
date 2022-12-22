@@ -3,9 +3,9 @@
     [
       {
         "id": 1,
-        "Title": "Javascript",
-        "Description": "Javascript is a programming language",
-        "Date": "2021-03-30"
+        "title": "Javascript",
+        "description": "Javascript is a programming language",
+        "date": "2021-03-30"
       }
     ]
   }
